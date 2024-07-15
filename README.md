@@ -117,13 +117,8 @@ Provider "1"*-- "0..n" Slot
 
 
 
-## Team Members
 
-Aditya Ranjan Singh - singh.adityara@northeastern.edu
 
-Amit Anveri - anveri.a@northeastern.edu
-
-Anirudh Jagadish - jagadish.ani@northeastern.edu
 
 Satish Mallikarjun Paraddi - paraddi.s@northeastern.edu
 
